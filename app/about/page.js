@@ -40,7 +40,7 @@ export default function About() {
                         LinkedIn
                     </a>
                     <a
-                        href="https://github.com/your-github"
+                        href="https://github.com/NikhilSharma-web"
                         target="_blank"
                         className="text-gray-300 hover:text-white text-lg font-semibold"
                     >
