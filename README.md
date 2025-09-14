@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Portfolio
+A modern personal portfolio built with Next.js, React, Tailwind CSS, and Framer Motion. Showcases my projects, skills, and experience with smooth animations and a responsive design. Includes a MongoDB-powered contact form, resume download, and quick links to LinkedIn, GitHub, and WhatsApp for easy connection.
+>>>>>>> fbdfbf17612436f85e305bbc85e0b62a5edf2caa
